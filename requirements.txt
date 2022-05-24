@@ -1,0 +1,8 @@
+keras==2.3.1
+tensorflow==1.15.0
+Pillow
+numpy
+matplotlib
+tqdm
+scipy
+scikit-learn
